@@ -1,0 +1,3 @@
+Current version
+to run: unzip file, run agame.exe
+thats it
